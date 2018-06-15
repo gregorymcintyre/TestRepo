@@ -10,4 +10,4 @@
  checkout
  
  pull 
- push
+ push origin master
